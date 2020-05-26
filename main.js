@@ -19,8 +19,6 @@ function initSlider(){
         patterns[1] = pattern_2.style.display = 'block';
 
         i++;
-
-
     }else{
     patterns[0] =  pattern_1.style.display = 'block';
     patterns[1] = pattern_2.style.display = 'none';
