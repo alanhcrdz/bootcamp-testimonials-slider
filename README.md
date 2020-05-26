@@ -10,9 +10,10 @@ A simple testimonials page, where was explored Javascript function to alternate 
 - If statements
 - Responsive Layout
 
-##Preview
+### Desktop Preview:
 ![Standard Devices Preview:](./design/desktop-preview.jpg)
 
+### Mobile Preview:
 ![Mobile Preview:](./design/mobile-design.jpg)
 
 Hope you enjoy it!
